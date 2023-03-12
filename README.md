@@ -1,6 +1,6 @@
 # Home-automation-uning-blynk-IoT-app
 In this project you will se step by step setup of blynk Iot app.
-Step 1 (Open blynk IoT online  Install blyk IoT app  )
+Step 1 (Open blynk IoT online  Install blyk IoT app)
 
 Click on the first link
 
@@ -10,6 +10,8 @@ click on start free button
 
 ![image](https://user-images.githubusercontent.com/88829086/188282366-40003ea4-6a2b-430c-bea9-b8c086384e65.png)
 
-after that complete sign process
+after that completeing sign process
+
+Step 2  Goto play store and download Blynk IoT
 
 
